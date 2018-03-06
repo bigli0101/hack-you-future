@@ -1,0 +1,77 @@
+
+
+body{
+	padding: 20px;
+	margin: 30px;
+	background-color:#faebd7;
+	
+}
+
+.menu{
+	
+	margin: 60px auto;
+	list-style: none;
+	text-align: center;
+	font-size: 35px;
+	color: rgb(60, 179, 113);
+}
+.menu-item{
+	display: inline;
+	padding: 20px;
+	color: rgb(60, 179, 113);
+
+}
+h1{
+	color: teal;
+	font-size: 60px;
+	font-family: cursive;
+	text-align: center;
+	
+.my-Photo{
+	/*align: center;*/
+	width: 20%;
+	float: left;
+}
+h2{  
+	text-align: center;
+	color: teal;
+	font-family: Courier, Arial;
+	font-style: bold;
+}
+p{ 
+	text-align: center;
+	color: teal;
+	font-family: Courier, Arial;
+	font-style: bold;
+}
+a{
+	font: Arial;
+	text-decoration: none;
+	color: teal;
+}
+
+
+section{
+	background-color: F0FFF0;
+	width: 70%;
+	margin: 30px auto;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+#experience{
+	color: teal;
+	font: Courier, Arial;
+	font-size: 30px;
+
+}
+#education{
+	color: teal;
+	font: Courier, Arial;
+	font-size: 30px;
+}
+#contact{
+	color: teal;
+	font: Courier, Arial;
+	font-size: 30px;
+
+}
