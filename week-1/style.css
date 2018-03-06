@@ -12,45 +12,51 @@ body{
 	margin: 60px auto;
 	list-style: none;
 	text-align: center;
+	font-family: Courier, Arial;
+	font-style: bold;
 	font-size: 35px;
-	color: rgb(60, 179, 113);
+	color: rgb(132, 204, 200);
 }
 .menu-item{
 	display: inline;
-	padding: 20px;
-	color: rgb(60, 179, 113);
+	padding-right: 40px;
+	font-family: Courier, Arial;
+	font-style: bold;
+	color: rgb(132, 204, 200);
 
 }
 h1{
-	color: teal;
-	font-size: 60px;
-	font-family: cursive;
+	color: rgb(132, 204, 200);
+	font-size: 55px;
+	font-family: Courier, Arial;
 	text-align: center;
-	
+}
 .my-Photo{
-	/*align: center;*/
+	align: center;
 	width: 20%;
 	float: left;
 }
 h2{  
-	text-align: center;
-	color: teal;
+	color: rgb(132, 204, 200);
+	font-size: 40px;
 	font-family: Courier, Arial;
 	font-style: bold;
+	text-align: center;
 }
 p{ 
 	text-align: center;
-	color: teal;
+	color: rgb(132, 204, 200);
 	font-family: Courier, Arial;
 	font-style: bold;
 }
 a{
-	font: Arial;
+	font: Courier, Arial;
 	text-decoration: none;
-	color: teal;
+	color:  rgb(132, 204, 200);
 }
-
-
+li{
+	color:  rgb(132, 204, 200);
+}
 section{
 	background-color: F0FFF0;
 	width: 70%;
@@ -59,18 +65,17 @@ section{
 	padding-top: 20px;
 }
 #experience{
-	color: teal;
+	color rgbrgb(132, 204, 200));
 	font: Courier, Arial;
 	font-size: 30px;
-
 }
 #education{
-	color: teal;
+	color: rgbrgb(132, 204, 200);
 	font: Courier, Arial;
 	font-size: 30px;
 }
 #contact{
-	color: teal;
+	color: rgb(132, 204, 200);
 	font: Courier, Arial;
 	font-size: 30px;
 
